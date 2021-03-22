@@ -1,5 +1,9 @@
 # Efficient Process Scheduling Algorithm using RR and SRTF (ESRR)
 
+## What is this?
+
+This is just a simple program to implement a process scheduling algorithm that was published in 2020
+
 ## Overview
 
 ESRR aims to:
@@ -25,9 +29,14 @@ When all processes have arrived, it will do one last sort (by burst left) and th
 
 Algorithm is implemented in C.
 
-Written by me
+Written by me, I am not really proficient in C so please be kind when reading and going through the code
 
 It is not properly formatted and messily done up but it works.. so i count that as a win (:
+
+But here are some things that can be improved for future C projects:
+1. Use of methods/functions
+2. Clean up unused variables
+3. Allocating and clearing of memory
 
 ## Background
 
